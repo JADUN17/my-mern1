@@ -40,7 +40,7 @@ mongoose.connect("mongodb+srv://admin:123@cluster0.frobj0z.mongodb.net/?retryWri
 .then(()=>{
     console.log("Connected to the database")
 }).catch(()=>{
-    console.log("Database connection failed")
+    console.log("Database   failed")
 })
 
 
